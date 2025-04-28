@@ -53,4 +53,4 @@ st.caption(
 if st.button("Looking For More Inspiration 🌻"):
     st.balloons()
 
-st.markdown("<p style='text-align: center;'>📍 Created by Saba Ali Zain</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>📍 Created by Hamza Khan </p>", unsafe_allow_html=True)
